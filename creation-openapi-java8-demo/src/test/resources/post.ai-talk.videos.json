@@ -1,0 +1,16 @@
+{
+  "textInput": {
+    "volume": "loud",
+    "voiceName": "zh-CN-XiaohanNeural",
+    "role": "年轻人",
+    "styleDegree": "STRONG",
+    "rate": "fast",
+    "style": "cheerful",
+    "text": "大家好，我是晓涵，很高新认识您们",
+    "pitch": "medium",
+    "locale": "zh-CN"
+  },
+  "actorId": "319537242189824",
+  "picType": "crop",
+  "emotionType": "calm"
+}
